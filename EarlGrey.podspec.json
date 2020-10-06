@@ -12,7 +12,7 @@
     "Google Inc.": "http://www.google.com"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.0"
   },
   "requires_arc": true,
   "source": {
