@@ -16,7 +16,7 @@
   },
   "requires_arc": true,
   "source": {
-    "http": "https://github.com/xv-toto-t/EarlGrey/releases/download/1.17.0/EarlGrey.zip"
+    "git": "https://github.com/xv-toto-t/EarlGrey.git"
   },
   "frameworks": [
     "CoreData",
